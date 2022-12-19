@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: 5d5de3e4b991fec4d8cc7790c89ccebe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2708947614067199041
+    second: Mobile - Sonic Dash - Ring_0
+  - first:
+      213: 2110698711677287725
+    second: Mobile - Sonic Dash - Ring_1
+  - first:
+      213: 8747088010259082724
+    second: Mobile - Sonic Dash - Ring_2
+  - first:
+      213: -6180019725322472333
+    second: Mobile - Sonic Dash - Ring_3
+  - first:
+      213: -3720064700611013405
+    second: Mobile - Sonic Dash - Ring_4
+  - first:
+      213: 1606420414891809469
+    second: Mobile - Sonic Dash - Ring_5
+  - first:
+      213: -581813678980286821
+    second: Mobile - Sonic Dash - Ring_6
+  - first:
+      213: 1508594268442898392
+    second: Mobile - Sonic Dash - Ring_7
+  - first:
+      213: -4824702857813981820
+    second: Mobile - Sonic Dash - Ring_8
+  - first:
+      213: -7352662687661461717
+    second: Mobile - Sonic Dash - Ring_9
+  - first:
+      213: -815759515753871442
+    second: Mobile - Sonic Dash - Ring_10
+  - first:
+      213: 3340880186447017845
+    second: Mobile - Sonic Dash - Ring_11
+  - first:
+      213: -5960829713597464350
+    second: Mobile - Sonic Dash - Ring_12
+  - first:
+      213: 3497701490884754084
+    second: Mobile - Sonic Dash - Ring_13
+  - first:
+      213: -793506476785883549
+    second: Mobile - Sonic Dash - Ring_14
+  - first:
+      213: 2588061439180783373
+    second: Mobile - Sonic Dash - Ring_15
+  - first:
+      213: -2180045567625172628
+    second: Mobile - Sonic Dash - Ring_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Sonic Dash - Ring_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 515
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671b7f232488a2b40b83c261850e992d
+      internalID: 2708947614067199041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic Dash - Ring_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 515
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d232d293a4a1748a013f07a759de7d
+      internalID: 2110698711677287725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic Dash - Ring_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 515
+        width: 107
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8632f5b72dea5ae41a7d26b97b9bbcf5
+      internalID: 8747088010259082724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic Dash - Ring_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 515
+        width: 95
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687f8ea68ea9c57408495e31c07cc920
+      internalID: -6180019725322472333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic Dash - Ring_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 387
+        width: 83
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24bfe2c527ada543a59cbdb056e6758
+      internalID: -3720064700611013405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic Dash - Ring_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 387
+        width: 68
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a775901efc152544990ef43662a818d9
+      internalID: 1606420414891809469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic Dash - Ring_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 387
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883d7b298804b874a897a6c8c1e13a71
+      internalID: -581813678980286821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic Dash - Ring_7
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 387
+        width: 33
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa4fefc13c43ef49badb873b4c74194
+      internalID: 1508594268442898392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic Dash - Ring_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 259
+        width: 51
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a71373e74edbb343bfb84b34cc7712d
+      internalID: -4824702857813981820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic Dash - Ring_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 259
+        width: 68
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29dae0e7aee6d44fa6aa18b75570656
+      internalID: -7352662687661461717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic Dash - Ring_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 259
+        width: 83
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6aa46640e373349813e6c1ef5d57a6
+      internalID: -815759515753871442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic Dash - Ring_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 259
+        width: 98
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdf78409e5396348990d5d7fef5a25d
+      internalID: 3340880186447017845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic Dash - Ring_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 131
+        width: 107
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30100a5b3237a1544897efc800f60766
+      internalID: -5960829713597464350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic Dash - Ring_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 131
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17a31b53e7a01d4dade4a188ad681e7
+      internalID: 3497701490884754084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic Dash - Ring_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 131
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da6464715a65894ca90192ae920296c
+      internalID: -793506476785883549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic Dash - Ring_15
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 131
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75c2b0fa385aec44878d85596e69c87
+      internalID: 2588061439180783373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Sonic Dash - Ring_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 158
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6937c7c7962da49adedff44b17f3d4
+      internalID: -2180045567625172628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
